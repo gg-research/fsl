@@ -9,7 +9,7 @@
   <remote fetch="https://github.com/openembedded" name="oe"/>
 
   <project remote="gg-research" revision="krogoth" name="pokyov" path="sources/poky"/>
-  <project remote="yocto" revision="krogoth" name="meta-fsl-arm" path="sources/meta-fsl-arm"/>
+  <project remote="gg-research" revision="krogoth" name="meta-fsl-arm" path="sources/meta-fsl-arm"/>
 
   <project remote="oe" revision="krogoth" name="meta-openembedded" path="sources/meta-openembedded"/>
 
